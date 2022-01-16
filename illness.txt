@@ -1,0 +1,8 @@
+Fever	Vomiting	Diarrhea	Shivering	Class
+no	no	no	no	healthy
+average	no	no	no	influenza
+high	no	no	yes	influenza
+high	yes	yes	no	salmonella poisoning
+average	no	yes	no	salmonella poisoning
+no	yes	yes	no	bowel inflammation
+average	yes	yes	no	bowel inflammation

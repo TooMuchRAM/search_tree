@@ -1,0 +1,2 @@
+# Search tree
+This is a C++ implementation of constructing a search tree from a table. It is probably very inefficient due to its heavy use of vectors and it will crash when a leaf doesn't have a Gini coefficient of 0. Still, if you can use this code and make something out of it, go your gang. 
